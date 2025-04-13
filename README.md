@@ -83,14 +83,8 @@ Models are evaluated based on:
 
 ## Project Structure
 
-Directory structure:
-└── sarojlal-music_genre_classification/
-    ├── app.py
-    ├── Music_Genre_Classification.ipynb
-    ├── requirements.txt
-    └── Data/
-        ├── features_30_sec.csv
-        └── features_3_sec.csv
+![image](https://github.com/user-attachments/assets/80e59885-a172-4ec9-9ae5-6c62fa45052f)
+
 
 ## Setup & Usage
 
@@ -103,8 +97,8 @@ Directory structure:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory>
+    git clone https://github.com/sarojlal/Music_Genre_Classification.git
+    cd https://github.com/sarojlal/Music_Genre_Classification.git
     ```
 2.  **(Recommended)** Create and activate a virtual environment:
     ```bash
