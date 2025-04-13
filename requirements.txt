@@ -1,0 +1,29 @@
+# Core Data Processing
+numpy==1.26.4
+pandas==2.1.4
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Machine Learning
+scikit-learn==1.4.0
+xgboost==2.0.3
+
+# Audio Processing
+librosa==0.10.1
+pydub==0.25.1
+soundfile==0.12.1
+
+# TensorFlow and compatible ecosystem
+tensorflow==2.15.0
+protobuf==3.20.3
+grpcio==1.59.0
+grpcio-status==1.48.2
+opentelemetry-proto==1.12.0
+
+# Streamlit
+streamlit==1.29.0
+
+# Utilities
+tqdm==4.66.1

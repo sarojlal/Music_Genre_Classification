@@ -1,0 +1,51 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variable or secrets files
+.env
+*.env
+secrets.json
+config.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Log and debug files
+*.log
+
+# VSCode or other IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# pip dependency resolver cache
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Audio or model files (optional, if you’re generating them)
+*.wav
+*.mp3
+*.h5
+*.pkl
+*.joblib
+
+# Output plots/images (optional)
+*.png
+*.jpg
+
+*.docx
